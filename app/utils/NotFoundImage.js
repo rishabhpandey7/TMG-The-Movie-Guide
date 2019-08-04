@@ -1,0 +1,1 @@
+export const notFound = require('../assets/images/not-found-512.png');
