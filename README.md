@@ -1,2 +1,2 @@
-# Pomodoro-Timer
-Simple multi-platform app made using react native which allows user to set work and break intervals to improve work efficiency.
+# TMG- The Movie Guide
+TMG- The Movie Guide is the fastest way to search and find movie descriptions, trailers and ratings, using data from The Movie Database (TMDb).
