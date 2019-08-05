@@ -22,5 +22,8 @@ TMG- The Movie Guide is the fastest way to search and find movie descriptions, t
 
 # Scan the QR code to open the app using the Expo client for Android
 * [Expo for Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN)
-- The Expo client for iOS does not allow opening projects by others.
 
+<p align= "center">
+<img src="https://user-images.githubusercontent.com/51262683/62485913-98c0be00-b7db-11e9-8af7-5430077da33f.PNG">
+</p>
+ The Expo client for iOS does not allow opening projects by others.
