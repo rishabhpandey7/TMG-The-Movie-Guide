@@ -16,6 +16,7 @@ TMG- The Movie Guide is the fastest way to search and find movie descriptions, t
 * [Node.js](https://nodejs.org/en/)
 * [Expo](https://expo.io/)
 * [TMDb api](https://developers.themoviedb.org/3)
+* [Git](https://git-scm.com/downloads)
 
 # Link to the project on Expo 
 * [TMG on Expo](https://expo.io/@rishabhpandey7/tmg-app)
