@@ -26,4 +26,6 @@ TMG- The Movie Guide is the fastest way to search and find movie descriptions, t
 <p align= "center">
 <img src="https://user-images.githubusercontent.com/51262683/62485913-98c0be00-b7db-11e9-8af7-5430077da33f.PNG">
 </p>
- The Expo client for iOS does not allow opening projects by others.
+ 
+ 
+ (The Expo client for iOS does not allow opening projects by others. Please leave a star if you liked the project or found the project code helpful. I would really appreciate it!)
