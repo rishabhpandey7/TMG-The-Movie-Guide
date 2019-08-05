@@ -11,3 +11,7 @@ TMG- The Movie Guide is the fastest way to search and find movie descriptions, t
  <img width="210" height="420" src="https://user-images.githubusercontent.com/51262683/62483805-30231280-b7d6-11e9-84c3-ddcaabafabfa.jpg">
  <img width="210" height="420" src="https://user-images.githubusercontent.com/51262683/62485218-bf7df500-b7d9-11e9-9905-d6944f288743.jpg">
 </p>
+
+# Resources Used
+[Expo](https://expo.io/)
+[TMDb api](https://developers.themoviedb.org/3)
