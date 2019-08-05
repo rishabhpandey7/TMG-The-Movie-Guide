@@ -13,5 +13,14 @@ TMG- The Movie Guide is the fastest way to search and find movie descriptions, t
 </p>
 
 # Resources Used
-[Expo](https://expo.io/)
-[TMDb api](https://developers.themoviedb.org/3)
+* [Node.js](https://nodejs.org/en/)
+* [Expo](https://expo.io/)
+* [TMDb api](https://developers.themoviedb.org/3)
+
+# Link to the project on Expo 
+* [TMG on Expo](https://expo.io/@rishabhpandey7/tmg-app)
+
+# Scan the QR code to open the app using the Expo client for Android
+* [Expo for Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN)
+- The Expo client for iOS does not allow opening projects by others.
+
